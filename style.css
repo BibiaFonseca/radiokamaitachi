@@ -1,0 +1,15 @@
+body{
+    margin: 0px 120px 0px 120px;
+}
+h1{
+    color: crimson;
+}
+.foto{
+    display: flex
+    justify-content
+}
+img{
+    border-radius: 20px;
+    width: 100px;
+    height: 100px;
+}
